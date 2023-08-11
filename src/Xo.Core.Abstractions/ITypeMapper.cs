@@ -1,6 +1,7 @@
 namespace Xo.Core.Abstractions;
 
-public interface ITypeMapper<TSource, TTarget>
+public interface ITypeMapper<TFrom, TTo>
 {
-    TTarget Map(TSource source);
+    TTo Map(TFrom from);
 }
+
