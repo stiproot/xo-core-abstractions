@@ -1,0 +1,12 @@
+/Users/simon.stipcich/code/repo/xo-core-abstractions/src/Xo.Core.Abstractions/bin/Debug/net7.0/Xo.Core.Abstractions.deps.json
+/Users/simon.stipcich/code/repo/xo-core-abstractions/src/Xo.Core.Abstractions/bin/Debug/net7.0/Xo.Core.Abstractions.dll
+/Users/simon.stipcich/code/repo/xo-core-abstractions/src/Xo.Core.Abstractions/bin/Debug/net7.0/Xo.Core.Abstractions.pdb
+/Users/simon.stipcich/code/repo/xo-core-abstractions/src/Xo.Core.Abstractions/obj/Debug/net7.0/Xo.Core.Abstractions.csproj.AssemblyReference.cache
+/Users/simon.stipcich/code/repo/xo-core-abstractions/src/Xo.Core.Abstractions/obj/Debug/net7.0/Xo.Core.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simon.stipcich/code/repo/xo-core-abstractions/src/Xo.Core.Abstractions/obj/Debug/net7.0/Xo.Core.Abstractions.AssemblyInfoInputs.cache
+/Users/simon.stipcich/code/repo/xo-core-abstractions/src/Xo.Core.Abstractions/obj/Debug/net7.0/Xo.Core.Abstractions.AssemblyInfo.cs
+/Users/simon.stipcich/code/repo/xo-core-abstractions/src/Xo.Core.Abstractions/obj/Debug/net7.0/Xo.Core.Abstractions.csproj.CoreCompileInputs.cache
+/Users/simon.stipcich/code/repo/xo-core-abstractions/src/Xo.Core.Abstractions/obj/Debug/net7.0/Xo.Core.Abstractions.dll
+/Users/simon.stipcich/code/repo/xo-core-abstractions/src/Xo.Core.Abstractions/obj/Debug/net7.0/refint/Xo.Core.Abstractions.dll
+/Users/simon.stipcich/code/repo/xo-core-abstractions/src/Xo.Core.Abstractions/obj/Debug/net7.0/Xo.Core.Abstractions.pdb
+/Users/simon.stipcich/code/repo/xo-core-abstractions/src/Xo.Core.Abstractions/obj/Debug/net7.0/ref/Xo.Core.Abstractions.dll
