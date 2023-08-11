@@ -2,5 +2,5 @@
 
 public interface ICommand
 {
-    ICommandResult Result { get; set; }
+    ICommandResult Result { get; init; }
 }

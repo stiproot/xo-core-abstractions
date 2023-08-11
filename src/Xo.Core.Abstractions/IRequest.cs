@@ -2,5 +2,5 @@
 
 public interface IRequest
 {
-    long UserId { get; set; }
+    long UserId { get; init; }
 }

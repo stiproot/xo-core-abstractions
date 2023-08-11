@@ -2,8 +2,8 @@
 
 public abstract class BaseResponse
 {
-    public long Id { get; set; }
-    public Guid Guid { get; set; }
-    public long UserId { get; set; }
-    public DateTime CreationTimestampUtc { get; set; }
+    public long Id { get; init; }
+    public Guid Guid { get; init; }
+    public long UserId { get; init; }
+    public DateTime CreationTimestampUtc { get; init; }
 }

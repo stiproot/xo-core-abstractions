@@ -2,5 +2,5 @@
 
 public class BaseCommandResult : ICommandResult
 {
-    public long Id { get; set; }
+    public long Id { get; init; } = -1;
 }

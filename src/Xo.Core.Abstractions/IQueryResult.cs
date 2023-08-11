@@ -2,8 +2,8 @@
 
 public interface IQueryResult
 {
-    long Id { get; set; }
-    Guid Guid { get; set; }
-    long UserId { get; set; }
-    DateTime CreationTimestampUtc { get; set; }
+    long Id { get; init; }
+    Guid Guid { get; init; }
+    long UserId { get; init; }
+    DateTime CreationTimestampUtc { get; init; }
 }

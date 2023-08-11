@@ -2,5 +2,5 @@
 
 public abstract class BaseLookupQueryResult : BaseQueryResult
 {
-    public string Description { get; set; } = string.Empty;
+    public string Description { get; init; } = string.Empty;
 }

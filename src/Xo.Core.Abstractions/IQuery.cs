@@ -2,5 +2,5 @@
 
 public interface IQuery : IBaseQuery
 {
-    long Id { get; set; }
+    long Id { get; init; }
 }

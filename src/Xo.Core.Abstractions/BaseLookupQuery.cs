@@ -2,5 +2,5 @@
 
 public abstract class BaseLookupQuery
 {
-    public short Id { get; set; }
+    public short Id { get; init; }
 }

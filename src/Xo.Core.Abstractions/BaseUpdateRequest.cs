@@ -2,5 +2,5 @@
 
 public abstract class BaseUpdateRequest : BaseRequest
 {
-    public long Id { get; set; }
+    public long Id { get; init; }
 }

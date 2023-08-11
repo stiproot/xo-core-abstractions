@@ -2,8 +2,8 @@
 
 public abstract class BaseQueryResult
 {
-    public long Id { get; set; }
-    public Guid Guid { get; set; }
-    public long UserId { get; set; }
-    public DateTime CreationTimestampUtc { get; set; }
+    public long Id { get; init; } = -1;
+    public Guid Guid { get; init; } = Guid.Empty;
+    public long UserId { get; init; } = -1;
+    public DateTime CreationTimestampUtc { get; init; } = DateTime.UtcNow;
 }
