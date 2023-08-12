@@ -10,4 +10,3 @@ public interface ICommandManager<TCommand>
       CancellationToken cancellationToken
     );
 }
-
